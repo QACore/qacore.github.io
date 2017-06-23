@@ -1,0 +1,10 @@
+com.github.qacore.testingtoolbox
+com.github.qacore.testingtoolbox.annotations
+com.github.qacore.testingtoolbox.configuration
+com.github.qacore.testingtoolbox.configuration.selenium
+com.github.qacore.testingtoolbox.junit.categories
+com.github.qacore.testingtoolbox.junit.runners.parallel
+com.github.qacore.testingtoolbox.junit.runners.schedulers
+com.github.qacore.testingtoolbox.selenium.html5
+com.github.qacore.testingtoolbox.selenium.parallel
+com.github.qacore.testingtoolbox.selenium.support.pageobjects
